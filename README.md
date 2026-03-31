@@ -31,31 +31,31 @@ Below are some screenshots of the Console-Based Quiz Application in action:
 
 1. **Correct Answer Feedback**  
 Shows when the user selects the correct answer.  
-![Correct Answer](assets/correct_ans.png)
+![Correct Answer](screenshot1/correct_ans.png)
 
 2. **Wrong Answer Feedback**  
 Shows when the user selects a wrong answer.  
-![Wrong Answer](assets/wrong_ans.png)
+![Wrong Answer](screenshot1/wrong_ans.png)
 
 3. **Phone Call Lifeline**  
 Example of using the Phone Call lifeline during the quiz.  
-![Phone Call Lifeline](assets/phonecall_lifeline.png)
+![Phone Call Lifeline](screenshot1/phonecall_lifeline.png)
 
 4. **Skip Question Lifeline**  
 Example of skipping a difficult question.  
-![Skip Lifeline](assets/skip_lifeline.png)
+![Skip Lifeline](screenshot1/skip_lifeline.png)
 
 5. **Audience Poll Lifeline**  
 Shows the audience poll suggestion for a question.  
-![Audience Poll Lifeline](assets/audiancepoll_lifeline.png)
+![Audience Poll Lifeline](screenshot1/audiancepoll_lifeline.png)
 
 6. **Reuse Lifeline Option**  
 Option to reuse a previously used lifeline.  
-![Reuse Lifeline](assets/reuse_lifeline.png)
+![Reuse Lifeline](screenshot1/reuse_lifeline.png)
 
 7. **Current Winning Score**  
 Displays the current winnings of the user during gameplay.  
-![Winning Score](assets/winning_score.png)
+![Winning Score](screenshot1/winning_score.png)
 
 ## Future Enhancements
 - Add a **Graphical User Interface (GUI)** using Java Swing  
