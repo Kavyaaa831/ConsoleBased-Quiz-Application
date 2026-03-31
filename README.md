@@ -4,9 +4,6 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Issues](https://img.shields.io/github/issues/Kavyaaa831/Swing-Quiz-Application)
 
-# ConsoleBased-Quiz-Application
-A KBC-style console quiz game in Java with lifelines, level-based rewards, and safety checkpoints for an engaging learning experience.
-
 ## Overview
 The **Console-Based Quiz Application** is a Java program that simulates a KBC-style quiz game. 
 It allows users to answer multiple-choice questions, receive instant feedback, and earn level-based rewards. 
