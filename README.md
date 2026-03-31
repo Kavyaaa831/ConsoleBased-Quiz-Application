@@ -1,13 +1,12 @@
 # Console-Based Quiz Application (Java)
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Issues](https://img.shields.io/github/issues/Kavyaaa831/Swing-Quiz-Application)
 
 ## Overview
 The **Console-Based Quiz Application** is a Java program that simulates a KBC-style quiz game. 
 It allows users to answer multiple-choice questions, receive instant feedback, and earn level-based rewards. 
-Lifelines such as 50-50, Audience Poll, and Skip Question help users progress through the quiz. 
+Lifelines such as PhoneCall, Audience Poll, and Skip Question help users progress through the quiz. 
 Safety checkpoints guarantee a minimum reward at specific stages, adding strategic depth and excitement.
 
 ## Features
@@ -30,6 +29,7 @@ Safety checkpoints guarantee a minimum reward at specific stages, adding strateg
 ## Screenshots 
 Below are some screenshots of the Console-Based Quiz Application in action:
 
+![Gameplay Screenshot](assets/screenshot1.png)
 
 ## Future Enhancements
 - Add a **Graphical User Interface (GUI)** using Java Swing  
