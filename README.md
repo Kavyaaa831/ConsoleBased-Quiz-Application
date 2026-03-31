@@ -49,11 +49,11 @@ Example of skipping a difficult question.
 Shows the audience poll suggestion for a question.  
 ![Audience Poll Lifeline](screenshot1/audiancepoll_lifeline.png)
 
-6. **Reuse Lifeline Option**  
+6. **No Lifelines Left**  
 Option to reuse a previously used lifeline.  
 ![Reuse Lifeline](screenshot1/reuse_lifeline.png)
 
-7. **Current Winning Score**  
+7. **Winning Score**  
 Displays the current winnings of the user during gameplay.  
 ![Winning Score](screenshot1/winning_score.png)
 
