@@ -14,7 +14,7 @@ Safety checkpoints guarantee a minimum reward at specific stages, adding strateg
 - Instant feedback on answers (Correct / Incorrect)
 - Level-based rewards instead of cumulative scoring
 - Lifelines:
-  - **50-50**: Eliminates two wrong options
+  - **Phone Call**: Eliminates two wrong options
   - **Audience Poll**: Suggests the most likely answer
   - **Skip Question**: Skip a difficult question
 - Lifelines can be used only once and in early levels
